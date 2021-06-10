@@ -1,2 +1,5 @@
-# codesandbox-test
-Created with CodeSandbox
+# 成果物
+## todoアプリ  
+javascript, html, cssを用いて作ったtodoアプリ。
+TODOを入力して追加ボタンを押すと、未完了のtodoに項目が追加され、完了ボタンを押すと完了したtodoに項目が移動する。  
+削除ボタンを押すと消える。戻すボタンを押すと完了から未完了に項目が移動する。  
