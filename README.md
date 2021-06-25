@@ -6,3 +6,7 @@ TODOを入力して追加ボタンを押すと、未完了のtodoに項目が追
 ## todo2  
 todoをreactで再構成した。  
 基本的にはtodoと同じだが、登録できるtodoの数が5件までの制約がついた。  
+
+<img width="341" alt="スクリーンショット 2021-06-25 11 27 40" src="https://user-images.githubusercontent.com/72332745/123360572-80611480-d5a8-11eb-9a70-05c02b11796c.png">
+<img width="338" alt="スクリーンショット 2021-06-25 11 27 50" src="https://user-images.githubusercontent.com/72332745/123360576-81924180-d5a8-11eb-902b-7d83c72cc3a3.png">
+<img width="336" alt="スクリーンショット 2021-06-25 11 28 20" src="https://user-images.githubusercontent.com/72332745/123360580-82c36e80-d5a8-11eb-83c1-f8c255472c3c.png">
